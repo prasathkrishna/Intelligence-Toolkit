@@ -1,0 +1,5 @@
+step 1: run the  shell script file  in terminal ---> sh a.sh or a.sh 
+step 2: select the feature that needed for the user 
+step 3: if ip location finder enter the ip in ipversion(ipv4)
+step 4: if ip finder enter the site address correctly without https:// eg: mcet.in
+step 5 if port scanner please enter site name port range it should be scanned ,it should be be of ending port numbers
